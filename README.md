@@ -1,4 +1,4 @@
-### Predicting the Solubility of Chemical Compounds Based on their Molecular Descriptors ###
+# Predicting the Solubility of Chemical Compounds Based on their Molecular Descriptors #
 
 ## Siva Sricharan Dasaka ##
 
